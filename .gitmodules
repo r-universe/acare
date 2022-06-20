@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "hacksig"]
+	path = hacksig
+	url = https://github.com/acare/hacksig
+	shallow = true
+	registered = true
